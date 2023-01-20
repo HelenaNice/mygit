@@ -27,4 +27,8 @@ work whith branch
  git branch dev01 --> create new branch
  git checkout dev01 --> transfer to this branch
  git branch  --> where am in
- 
+
+ git checkout -b dev02 --> create new branch and i there
+
+ git log --> info for change
+git branch -m  <name> --> rename branch
