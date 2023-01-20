@@ -28,3 +28,5 @@ work whith branch
  git checkout dev01 --> transfer to this branch
  git branch  --> where am in
  
+git push --set-upstream origin <dev002> ---drop off our repository to gitHub
+репозиторшй створено
